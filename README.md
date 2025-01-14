@@ -1,41 +1,121 @@
-### 0lá! eu sou Jacson Lucas 👋
+# 0lá! eu sou Jacson Lucas 👋
 
-[![Whattsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&
-logo=whatsapp&logoColor=white)](https://wa.me/559184169356)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&
-logo=instagram&logoColor=white)](https://www.instagram.com/jacsondev?
-igsh=MTNsb2hyaXEzejJwMw==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&
-logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-jacson-lucas-9333bb288?utm_source=share&utm_campaign=share_via&
-utm_content=profile&utm_medium=android_app)
+**`Desenvolvedor Front End`**
 
-![Jacson GitHub stats](https://github-readme-stats.vercel.app/api?
-username=jacsom093&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
-username=jacsom093)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia 
+<p align="left">
+    <a href="https://wa.me/559184169356">
+        <img 
+            alt="Meu WhatsApp" 
+            title="WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/jacsondev?igsh=MTNsb2hyaXEzejJwMw==">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a> 
+    <a href="https://www.linkedin.com/in/jacson-lucas-9333bb288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="jacson09112006@gmail.com">
+        <img 
+            alt="E-Mail" 
+            title="E-Mail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?
-style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?
-style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/
-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?
-style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?
-style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="node.js" src="https://img.shields.io/badge/Node.
-js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div><br>
+---
 
-Sempre buscando inovar meus projetos e deixar mais "Radical"!
+### 🤖 Linguagens e Tecnologias
 
-## Entre em contato
-- [E-mail](jacson09112006@gmail.com)
-- [WhatsApp](https://wa.me/559184169356)
-- [Instagram](https://www.instagram.com/jacsondev?igsh=MTNsb2hyaXEzejJwMw==)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jacsom093&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacsom093&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
